@@ -1,0 +1,78 @@
+# public_health_units.yaml
+# Part of the WDGPH Standards Registry
+# Version-controlled list of Ontario Public Health Units (PHUs)
+# Provides a consistent reference for PHU codes across automation pipelines
+
+standard:
+  id: public_health_units
+  title: Ontario Public Health Units
+  description: >
+    Registry of Ontario Public Health Units and their standard short codes.
+    Used for validation, data integration, and reporting across WDGPH automation systems.
+  version: 1.0.0
+  maintained_by: WDGPH Information Systems & Digital Innovation
+  last_updated: 2025-10-30
+  fields:
+    - name: name
+      type: string
+      description: Full official name of the Public Health Unit
+    - name: code
+      type: string
+      description: Standardized short code used for PHU identification
+  data:
+    - name: "Middlesex-London Health Unit"
+      code: "MLHU"
+    - name: "Sudbury & District Health Unit"
+      code: "SDHU"
+    - name: "Region of Waterloo Public Health"
+      code: "ROW"
+    - name: "North Bay Parry Sound District Health Unit"
+      code: "NBPSDHU"
+    - name: "Grand Erie Health Unit"
+      code: "GEPH"
+    - name: "Northeastern Health Unit"
+      code: "NEPH"
+    - name: "Simcoe Muskoka District Health Unit"
+      code: "SMDHU"
+    - name: "York Region Public Health Services"
+      code: "YRPH"
+    - name: "Lakelands"
+      code: "LAKELANDS"
+    - name: "Renfrew County and District Health Unit"
+      code: "RCDHU"
+    - name: "Algoma Public Health Unit"
+      code: "APU"
+    - name: "Grey Bruce Health Unit"
+      code: "GBHU"
+    - name: "Halton Region Health Department"
+      code: "HRHD"
+    - name: "Ottawa Public Health"
+      code: "OPH"
+    - name: "Toronto Public Health"
+      code: "TPH"
+    - name: "South East Health Unit"
+      code: "SEHU"
+    - name: "Chatham-Kent Health Unit"
+      code: "CKPH"
+    - name: "Durham Region Health Department"
+      code: "DRHD"
+    - name: "Eastern Ontario Health Unit"
+      code: "EOHU"
+    - name: "Hamilton Public Health Services"
+      code: "HPHS"
+    - name: "Huron Perth Health Unit"
+      code: "HPPH"
+    - name: "Lambton Public Health"
+      code: "LPH"
+    - name: "Niagara Region Public Health Department"
+      code: "NRPH"
+    - name: "Northwestern Health Unit"
+      code: "NWHU"
+    - name: "Peel Public Health"
+      code: "PPH"
+    - name: "Southwestern Public Health"
+      code: "SWPH"
+    - name: "Thunder Bay District Health Unit"
+      code: "TBDHU"
+    - name: "Windsor-Essex County Health Unit"
+      code: "WECHU"

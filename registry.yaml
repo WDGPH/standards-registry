@@ -1,0 +1,26 @@
+registry:
+
+  - id: school_boards
+    title: Ontario School Boards and Authorities
+    description: >
+      List of Ontario school boards and school authorities, including short codes.
+      Used for data validation and integration in education-related automation pipelines.
+    path: data-standards/school_boards.yaml
+    version: 1.0.0
+    maintainer: WDGPH Information Systems & Digital Innovation
+    last_updated: 20251030
+    source:
+      name: "Government of Ontario – Find a school board or school authority"
+      url: "https://www.ontario.ca/page/find-school-board-or-school-authority"
+    tags:: [education, validation]
+
+  - id: 20251030_public_health_units
+    title: Ontario Public Health Units
+    description: >
+      List of Ontario Public Health Units and their standardized short codes.
+      Used for validation, data integration, and reporting in WDGPH automation pipelines.
+    path: data-standards/public_health_units.yaml
+    version: 1.0.0
+    maintainer: WDGPH Information Systems & Digital Innovation
+    last_updated: 20251030
+    tags: [reference, health_units, ontario, validation]
