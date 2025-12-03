@@ -1,5 +1,5 @@
 # Bibliography / Reference Sources (Living)
-This file is a living bibliography of external standards, guidance, and reference materials that may inform future data governance and data standards work. Resources listed here are not automatically adopted in WDG practice; rather, they serve as candidate sources to support consistent variable definitions, coding practices, and equity-informed data collection. Entries will be addded and updated over time as new evidence, standards, or jurisdictional practices emerge.
+This file is a living bibliography of external standards, guidance, and reference materials that may inform future data governance and data standards work. Resources listed here are not automatically adopted in WDG practice; rather, they serve as candidate sources to support consistent variable definitions, coding practices, and equity-informed data collection. Entries will be added and updated over time as new evidence, standards, or jurisdictional practices emerge.
 
 ### 1. Gender, Sex, & Sexual Orientation (GSSO) Health Information Standards - Government of British Columbia 
 Link: https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/health-information-standards/standards-catalogue/gender-sex
